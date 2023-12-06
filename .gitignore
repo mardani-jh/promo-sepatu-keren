@@ -1,1 +1,5 @@
 img/*.*
+
+tailwind.config.js
+
+.gitignore
